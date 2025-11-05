@@ -2,7 +2,8 @@
 
 Automatically generate structured PR summaries with AI-ready prompts for comprehensive, reviewer-friendly pull request descriptions.
 
-[![npm version](https://badge.fury.io/js/pr-summary-generator.svg)](https://www.npmjs.com/package/pr-summary-generator)
+[![npm version](https://img.shields.io/npm/v/pr-summary-generator.svg)](https://www.npmjs.com/package/pr-summary-generator)
+[![npm downloads](https://img.shields.io/npm/dm/pr-summary-generator.svg)](https://www.npmjs.com/package/pr-summary-generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
