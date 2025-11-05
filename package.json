@@ -1,0 +1,43 @@
+{
+  "name": "pr-summary-generator",
+  "version": "1.0.0",
+  "description": "Automatically generate structured PR summaries with AI-ready prompts for comprehensive, reviewer-friendly pull request descriptions",
+  "main": "bin/pr-summary.js",
+  "bin": {
+    "pr-summary": "./bin/pr-summary.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "pull-request",
+    "pr",
+    "summary",
+    "changelog",
+    "automation",
+    "developer-tools",
+    "ai",
+    "code-review",
+    "documentation"
+  ],
+  "author": "Ahmed Hussein <ahmedhussein.developer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmedCodeGuy/pr-summary-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhmedCodeGuy/pr-summary-generator/issues"
+  },
+  "homepage": "https://github.com/AhmedCodeGuy/pr-summary-generator#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "README.md",
+    "LICENSE"
+  ]
+}
