@@ -8,13 +8,13 @@ Automatically generate structured PR summaries with AI-ready prompts for compreh
 
 ## Features
 
-✅ **Smart Analysis**: Analyzes your git commits and detects PR type automatically
-✅ **AI Integration**: Generates comprehensive AI prompts (auto-copied to clipboard!)
-✅ **Structured Templates**: Creates professional PR summaries following best practices
-✅ **Context-Aware**: Provides suggestions based on file types (components, hooks, utils, etc.)
-✅ **Framework Agnostic**: Works with any codebase (React, Vue, Angular, Node.js, etc.)
-✅ **Configurable**: Customize base branch, output file, and exclude patterns
-✅ **Zero Dependencies**: Lightweight, uses only Node.js built-ins
+- ✅ **Smart Analysis**: Analyzes your git commits and detects PR type automatically
+- ✅ **AI Integration**: Generates comprehensive AI prompts (auto-copied to clipboard!)
+- ✅ **Structured Templates**: Creates professional PR summaries following best practices
+- ✅ **Context-Aware**: Provides suggestions based on file types (components, hooks, utils, etc.)
+- ✅ **Framework Agnostic**: Works with any codebase (React, Vue, Angular, Node.js, etc.)
+- ✅ **Configurable**: Customize base branch, output file, and exclude patterns
+- ✅ **Zero Dependencies**: Lightweight, uses only Node.js built-ins
 
 ## Quick Start
 
