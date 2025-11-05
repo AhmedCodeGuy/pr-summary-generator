@@ -1,6 +1,6 @@
 {
   "name": "pr-summary-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically generate structured PR summaries with AI-ready prompts for comprehensive, reviewer-friendly pull request descriptions",
   "main": "bin/pr-summary.js",
   "bin": {
